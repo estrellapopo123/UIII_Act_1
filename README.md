@@ -23,5 +23,5 @@ samples, guidance on mobile development, and a full API reference.
 - https://youtu.be/cNGCBhFKVUQ?si=owAD2m8xTaiOgMEZ
 
 ![image](https://github.com/estrellapopo123/UIII_Act_1/assets/144378353/0b95545d-3d4f-4b11-85c6-065cacbc496f)
-![image](https://github.com/estrellapopo123/UIII_Act_1/assets/144378353/adb25573-03d2-4080-a453-bb19e86c31d7)
-![image](https://github.com/estrellapopo123/UIII_Act_1/assets/144378353/5e8cf12f-3c0d-4ca5-a6d3-eb7514a7bb96)
+![image](https://github.com/estrellapopo123/UIII_Act_1/assets/144378353/881b73a6-ba4c-4967-bc5e-025e70924daf)
+![image](https://github.com/estrellapopo123/UIII_Act_1/assets/144378353/2da82467-a5cf-4f0d-b851-16592b59cf1c)
